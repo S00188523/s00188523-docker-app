@@ -1,5 +1,5 @@
 
-FROM node:16.16.0 AS builder
+FROM node:19.4.0 AS builder
 
 WORKDIR /s00188523-docker-app
 
