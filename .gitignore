@@ -6,8 +6,7 @@
 /out-tsc
 /bazel-out
 
-#docker
-#*dockerfile
+
 
 # Node
 /node_modules
